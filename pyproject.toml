@@ -1,0 +1,8 @@
+[project]
+name = "DataSentinel"
+version = "1.0.0"
+description = "Automated Data Quality & Pipeline Monitoring Platform"
+requires-python = ">=3.10"
+authors = [
+    {name = "Aman Sharma"}
+]
